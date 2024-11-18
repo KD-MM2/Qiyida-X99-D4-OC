@@ -3,7 +3,7 @@
 ## BIOS INFO
 ```
 Manufacturer   - INTEL
-Model          -X99-D4
+Model          - X99-D4
 BIOS release   - 5.11 07/22/2024
 BIOS version   - 00.01
 BIOS platform  - AMI Aptio 5
