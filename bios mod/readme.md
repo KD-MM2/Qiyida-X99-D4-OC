@@ -1,6 +1,10 @@
 # BIOS MOD
 
-## BIOS INFO
+## FILES & BIOS INFO
+- **stock.rom**: dumped from my mobo
+    - `X99D4 Ver:001 07/22/2024 17:17:12`
+- **stock-mcode-updated.rom**: stock with cpu microcode updated
+- **stock-mcode-driver-updated.rom**: stock with cpu microcode and driver updated
 ```
 Manufacturer   - INTEL
 Model          - X99-D4
@@ -9,11 +13,17 @@ BIOS version   - 00.01
 BIOS platform  - AMI Aptio 5
 ```
 
-## FILES
-- **stock.rom**: dumped from my mobo
 - **qiyidax99d4.rom**: picked from here: https://github.com/Koshak1013/HuananzhiX99_BIOS_mods/issues/116
-- **stock-mcode-updated.rom**: stock with cpu microcode updated
-- **stock-mcode-driver-updated.rom**: stock with cpu microcode and driver updated
+    - `X99D4 Ver:001 11/01/2023 17:17:12`
+- **qiyidax99d4-mcode-updated.rom**: qiyidax99d4 with cpu microcode updated
+- **qiyidax99d4-mcode-driver-updated.rom**: qiyidax99d4 with cpu microcode and driver updated
+```
+Manufacturer   - INTEL
+Model          - X99-D4
+BIOS release   - 5.11 11/01/2023
+BIOS version   - 00.01
+BIOS platform  - AMI Aptio 5
+```
 
 #### stock.rom cpu microcode
 ```
