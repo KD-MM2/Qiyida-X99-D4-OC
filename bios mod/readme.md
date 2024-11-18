@@ -1,19 +1,21 @@
 # BIOS MOD
 
 ## BIOS INFO
+```
 Manufacturer   - INTEL
-Model          -X99-D4
+Model          - X99-D4
 BIOS release   - 5.11 07/22/2024
 BIOS version   - 00.01
 BIOS platform  - AMI Aptio 5
+```
 
 ## FILES
-- stock.rom: dumped from my mobo
-- qiyidax99d4.rom: picked from here: https://github.com/Koshak1013/HuananzhiX99_BIOS_mods/issues/116
-- stock-mcode-updated.rom: stock with cpu microcode updated
-- stock-mcode-driver-updated.rom: stock with cpu microcode and driver updated
+- **stock.rom**: dumped from my mobo
+- **qiyidax99d4.rom**: picked from here: https://github.com/Koshak1013/HuananzhiX99_BIOS_mods/issues/116
+- **stock-mcode-updated.rom**: stock with cpu microcode updated
+- **stock-mcode-driver-updated.rom**: stock with cpu microcode and driver updated
 
-stock.rom cpu microcode
+#### stock.rom cpu microcode
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                 Intel                                                 ║
@@ -30,7 +32,7 @@ stock.rom cpu microcode
 ╚═══╧═══════════╧═══════╧════════════════════╧══════════╧════════════╧═══════╧════════╧══════════╧══════╝
 ```
 
-stock-mcode-updated.rom cpu microcode
+#### stock-mcode-updated.rom cpu microcode
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                 Intel                                                 ║
@@ -47,7 +49,7 @@ stock-mcode-updated.rom cpu microcode
 ╚═══╧═══════════╧═══════╧════════════════════╧══════════╧════════════╧═══════╧════════╧══════════╧══════╝
 ```
 
-stock-mcode-driver-updated.rom
+#### stock-mcode-driver-updated.rom
 ```
 EFI Intel RST RAID Driver   - 14.8.0.2377
 EFI Intel RSTe for sSATA    - 4.5.0.1012 -> 5.5.5.1005
