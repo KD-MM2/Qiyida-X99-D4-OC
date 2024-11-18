@@ -5,6 +5,7 @@
     - `X99D4 Ver:001 07/22/2024 17:17:12`
 - **stock-mcode-updated.rom**: stock with cpu microcode updated
 - **stock-mcode-driver-updated.rom**: stock with cpu microcode and driver updated
+- **stock-mcode-driver-updated-fix-str.rom**: stock with cpu microcode and driver updated, fix string `Press <F7> to open boot menu` to `Press <F11> to open boot menu` which is correct key
 ```
 Manufacturer   - INTEL
 Model          - X99-D4
@@ -17,6 +18,7 @@ BIOS platform  - AMI Aptio 5
     - `X99D4 Ver:001 11/01/2023 17:17:12`
 - **qiyidax99d4-mcode-updated.rom**: qiyidax99d4 with cpu microcode updated
 - **qiyidax99d4-mcode-driver-updated.rom**: qiyidax99d4 with cpu microcode and driver updated
+- **qiyidax99d4-mcode-driver-updated.rom**: qiyidax99d4 with cpu microcode and driver updated, fix string `Press <F7> to open boot menu` to `Press <F11> to open boot menu` which is correct key
 ```
 Manufacturer   - INTEL
 Model          - X99-D4
