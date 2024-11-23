@@ -1,5 +1,4 @@
-# OpenCore 1.0.2 for Qiyida X99-D4 (chinese mobo: Review – Qiyida X99-D4 – An Affordable chinese Motherboard for Xeon with White PCB)
-
+# OpenCore 1.0.2 for Qiyida X99-D4
 ## Working macOS version: Sequoia 15.0
 
 ## BIOS
