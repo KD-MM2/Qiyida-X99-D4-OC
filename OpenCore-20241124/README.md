@@ -38,7 +38,7 @@
 ### Version: 1.0.2
 ### macOS Version: Sequoia 15.0
 
-### PLEASE USE (OCAuxiliaryTools)[https://github.com/ic005k/OCAuxiliaryTools] TO EDIT CONFIG.PLIST
+### PLEASE USE [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) TO EDIT CONFIG.PLIST
 ### GENERATE NEW SMBIOS, THEN LOOK FOR **ROM** FIELD, REPLACE FIRST 6 DIGITS WITH **0016CB**, EXAMPLE: A0B1C2001122 → 0016CB001122
 ### DON'T DISABLE OR REMOVE **Ethernet** in Settings > Network OR YOU WILL NOT ABLE TO USE APPLE SERVICES ↓
 ### SEE [Fixing iMessage and other services with OpenCore](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
