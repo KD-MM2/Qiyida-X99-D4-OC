@@ -22,13 +22,13 @@
 ### WORKING
 - SATA1, SATA3 Ports
 - USB Ports(both USB2 and USB3)
+- 5.1 AUDIO Ports
 
 ### NOT WORKING
 - SATA2, SATA4 Ports
 - Ethernet port(NIC)
 
 ### NOT TESTED
-- 5.1 AUDIO Ports
 - M.2, NVME/NGFF Slot
 - P/S2 Ports
 
