@@ -23,13 +23,14 @@
 - SATA1, SATA3 Ports
 - USB Ports(both USB2 and USB3)
 - 5.1 AUDIO Ports
+- M.2, NVME/NGFF Slot (Thanks @narcyzzo for confirmation [here](https://github.com/KD-MM2/Qiyida-X99-D4-OC/issues/1#issuecomment-2508994085))
+- PCIE 1x slot
 
 ### NOT WORKING
 - SATA2, SATA4 Ports
 - Ethernet port(NIC)
 
 ### NOT TESTED
-- M.2, NVME/NGFF Slot
 - P/S2 Ports
 
 ### [HOW TO FLASH BIOS & CONFIGURATIONS](./BIOS.md)
