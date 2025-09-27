@@ -1,0 +1,3 @@
+cd /d %~dp0
+fptw64.exe -f ..\BOOTSECURE-TPM-152-QD4C612SPSJWAGNERVAZ.rom
+PAUSE
