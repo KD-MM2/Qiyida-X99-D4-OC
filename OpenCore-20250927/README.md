@@ -1,6 +1,6 @@
 # OpenCore for Qiyida X99-D4
 
-## Working macOS version: Sonoma 14.x / Sequoia 15.0
+## Working macOS version: Sequoia 15.x
 
 ## BIOS
 
@@ -14,7 +14,7 @@ The modified BIOS is provided by [jwagnervaz](https://github.com/jwagnervaz). Fo
 
 - Qiyida X99-D4 (Chinese mobo: [Review – Qiyida X99-D4 – An Affordable chinese Motherboard for Xeon with White PCB](https://theoverclockingpage.com/2024/04/21/review-qiyida-x99-d4-an-affordable-chinese-motherboard-for-xeon-with-white-pcb/?lang=en))
 - Intel Xeon E5-1660v3
-- 64GB = 4\*16GB DDR4 DIMM 2400MHz
+- 64GB = 4\*16GB DDR4 2400MHz
 - AMD RX570 4GB
 - 512GB SATA SSD
 
@@ -29,7 +29,7 @@ The modified BIOS is provided by [jwagnervaz](https://github.com/jwagnervaz). Fo
 
 ### NOT TESTED
 
-- P/S2 Ports
+- P/S2 Ports (But should works)
 
 ### [HOW TO FLASH BIOS & CONFIGURATIONS](./BIOS.md)
 
