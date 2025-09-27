@@ -13,11 +13,8 @@ OpenCore EFI configurations for the Qiyida X99-D4 Chinese motherboard, enabling 
   - [📋 System Requirements](#-system-requirements)
     - [Build Specifications](#build-specifications)
   - [📸 Screenshots](#-screenshots)
-    - [System Information](#system-information)
     - [About This Mac](#about-this-mac)
-    - [Hardware Overview](#hardware-overview)
-    - [System Performance](#system-performance)
-    - [Network Configuration](#network-configuration)
+    - [System Information](#system-information)
   - [🛠️ Installation Guide](#️-installation-guide)
   - [🙏 Credits](#-credits)
   - [⚠️ Disclaimer](#️-disclaimer)
@@ -71,25 +68,16 @@ OpenCore EFI configurations for the Qiyida X99-D4 Chinese motherboard, enabling 
 
 ## 📸 Screenshots
 
-### System Information
-
-![System Information](./assets/Screenshot-1.png)
-
 ### About This Mac
 
-![About This Mac](./assets/Screenshot-2.png)
+![About This Mac](./assets/Screenshot-1.png)
 
-### Hardware Overview
+### System Information
 
-![Hardware Overview](./assets/Screenshot-3.png)
-
-### System Performance
-
-![System Performance](./assets/Screenshot-4.png)
-
-### Network Configuration
-
-![Network Configuration](./assets/Screenshot-5.png)
+![Memory Information](./assets/Screenshot-2.png)
+![Graphics Information](./assets/Screenshot-3.png)
+![USB Information](./assets/Screenshot-4.png)
+![Audio Information](./assets/Screenshot-5.png)
 
 ## 🛠️ Installation Guide
 
