@@ -6,9 +6,10 @@ OpenCore EFI configurations for the Qiyida X99-D4 Chinese motherboard, enabling 
 
 - [OpenCore for Qiyida X99-D4 Motherboard](#opencore-for-qiyida-x99-d4-motherboard)
   - [📋 Table of Contents](#-table-of-contents)
-  - [🚀 Latest Version: OpenCore-20250927 (RECOMMENDED)](#-latest-version-opencore-20250927-recommended)
-    - [**OpenCore-20250927** - Full Working Build](#opencore-20250927---full-working-build)
+  - [🚀 Latest Version: OpenCore-20260131 (RECOMMENDED)](#-latest-version-opencore-20260131-recommended)
+    - [**OpenCore-20260131** - Minor fixes](#opencore-20260131---minor-fixes)
   - [📦 Version History](#-version-history)
+    - [**OpenCore-20250927** - Full Working Build](#opencore-20250927---full-working-build)
     - [**OpenCore-20241124** - Legacy Build](#opencore-20241124---legacy-build)
   - [📋 System Requirements](#-system-requirements)
     - [Build Specifications](#build-specifications)
@@ -19,10 +20,27 @@ OpenCore EFI configurations for the Qiyida X99-D4 Chinese motherboard, enabling 
   - [🙏 Credits](#-credits)
   - [⚠️ Disclaimer](#️-disclaimer)
   - [📝 Changelog](#-changelog)
+    - [OpenCore-20260131](#opencore-20260131)
     - [OpenCore-20250927](#opencore-20250927)
     - [OpenCore-20241124](#opencore-20241124)
 
-## 🚀 Latest Version: OpenCore-20250927 (RECOMMENDED)
+## 🚀 Latest Version: OpenCore-20260131 (RECOMMENDED)
+
+### **[OpenCore-20260131](./OpenCore-20260131)** - Minor fixes
+
+- **Status**: ✅ **FULLY FUNCTIONAL**
+- **OpenCore Version**: Latest(1.0.5)
+- **macOS Support**: Sequoia 15.x
+- **BIOS**: Custom modified BIOS by [jwagnervaz](https://github.com/jwagnervaz/QIYIDA-X99-D4-V2.0)
+
+**What's Working:**
+
+- ✅ All SATA Ports
+- ✅ All USB Ports (USB2 and USB3)
+- ✅ Onboard Ethernet (Realtek RTL8111)
+- ✅ Onboard Audio
+- ✅ M.2 NVME Slot
+- ✅ Sleep/Wake
 
 ### **[OpenCore-20250927](./OpenCore-20250927)** - Full Working Build
 
@@ -83,11 +101,12 @@ OpenCore EFI configurations for the Qiyida X99-D4 Chinese motherboard, enabling 
 
 1. **Choose Your Version**:
 
-   - **Recommended**: Use [OpenCore-20250927](./OpenCore-20250927) for full functionality
+   - **Recommended**: Use [OpenCore-20260131](./OpenCore-20260131) or [OpenCore-20250927](./OpenCore-20250927) for full functionality
    - **Legacy**: Use [OpenCore-20241124](./OpenCore-20241124) if you prefer the older build
 
 2. **BIOS Requirements**:
 
+   - **OpenCore-20260131**: Requires custom BIOS flash (fully functional)
    - **OpenCore-20250927**: Requires custom BIOS flash (fully functional)
    - **OpenCore-20241124**: Requires Huananzhi X99-F8 BIOS flash (limited functionality)
 
@@ -108,6 +127,11 @@ OpenCore EFI configurations for the Qiyida X99-D4 Chinese motherboard, enabling 
 - **macOS Licensing**: Ensure you comply with Apple's Software License Agreement.
 
 ## 📝 Changelog
+
+### OpenCore-20260131
+
+- ✅ Added ACPI Patches from SSDTime.
+- ✅ Added CPUFriend + CPUFriendDataProvider.
 
 ### OpenCore-20250927
 
